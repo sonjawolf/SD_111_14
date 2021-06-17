@@ -1,0 +1,45 @@
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.deps.json
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.runtimeconfig.json
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.runtimeconfig.dev.json
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.genruntimeconfig.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csproj.CopyComplete
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.deps.json
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.runtimeconfig.json
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.runtimeconfig.dev.json
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csproj.CopyComplete
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.genruntimeconfig.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.deps.json
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.runtimeconfig.json
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.runtimeconfig.dev.json
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.AssemblyInfo.cs
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.csproj.CopyComplete
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.DataAccess\obj\Debug\netcoreapp3.1\SonjaAsp.DataAccess.genruntimeconfig.cache

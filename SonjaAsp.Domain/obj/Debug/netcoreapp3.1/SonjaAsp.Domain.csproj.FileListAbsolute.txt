@@ -1,0 +1,27 @@
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.deps.json
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.csprojAssemblyReference.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.deps.json
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.csprojAssemblyReference.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.deps.json
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.csprojAssemblyReference.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.AssemblyInfoInputs.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.AssemblyInfo.cs
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Domain\obj\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb

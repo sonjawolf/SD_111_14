@@ -1,0 +1,48 @@
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.deps.json
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csprojAssemblyReference.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Application.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Application.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csproj.CopyComplete
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\source\repos\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.deps.json
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Application.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Application.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csprojAssemblyReference.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csproj.CopyComplete
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.dll
+C:\Users\Sonja\source\repos\SonjaAsp 25.08. pre slike\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.deps.json
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Implemantation.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Application.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Application.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.DataAccess.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\bin\Debug\netcoreapp3.1\SonjaAsp.Domain.pdb
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csprojAssemblyReference.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.AssemblyInfoInputs.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.AssemblyInfo.cs
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.csproj.CopyComplete
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.dll
+C:\Users\Sonja\Desktop\SonjaAsp - poslato Luki\SonjaAsp\SonjaAsp.Implemantation\obj\Debug\netcoreapp3.1\SonjaAsp.Implemantation.pdb

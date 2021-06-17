@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200824214309_Picture.cs" />
+    <Compile Remove="Migrations\20200824214309_Picture.Designer.cs" />
+    <Compile Remove="Migrations\20200824215015_Picture.cs" />
+    <Compile Remove="Migrations\20200824215015_Picture.Designer.cs" />
+    <Compile Remove="Migrations\20200824221203_Picture.cs" />
+    <Compile Remove="Migrations\20200824221203_Picture.Designer.cs" />
+    <Compile Remove="Migrations\20200824223011_Picture.cs" />
+    <Compile Remove="Migrations\20200824223011_Picture.Designer.cs" />
+    <Compile Remove="Migrations\20200824223216_Picture 2.cs" />
+    <Compile Remove="Migrations\20200824223216_Picture 2.Designer.cs" />
+    <Compile Remove="Migrations\20200824224344_Picture.cs" />
+    <Compile Remove="Migrations\20200824224344_Picture.Designer.cs" />
+    <Compile Remove="Migrations\20200824225039_Picture3.cs" />
+    <Compile Remove="Migrations\20200824225039_Picture3.Designer.cs" />
+    <Compile Remove="Migrations\20200824225453_Picture3.cs" />
+    <Compile Remove="Migrations\20200824225453_Picture3.Designer.cs" />
+    <Compile Remove="Migrations\20200824234234_Picture3.cs" />
+    <Compile Remove="Migrations\20200824234234_Picture3.Designer.cs" />
+    <Compile Remove="Migrations\20200825114405_Picture11.cs" />
+    <Compile Remove="Migrations\20200825114405_Picture11.Designer.cs" />
+    <Compile Remove="Migrations\20200826080653_Update za post.cs" />
+    <Compile Remove="Migrations\20200826080653_Update za post.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SonjaAsp.Domain\SonjaAsp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
